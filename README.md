@@ -19,6 +19,9 @@ Screenshot 截图
 
 [Download Demo](https://github.com/kongnanlive/AndroidAnimationDemo/raw/master/download/AndroidAnimationDemo-release.apk)
 
+[YouTube Video URL](http://youtu.be/9r5MYCzO6fs)
+
+[Yuku Video URL](http://v.youku.com/v_show/id_XNzc0MTgxMDg4.html)
 
 ### About me:
 
