@@ -21,4 +21,4 @@ Screenshot 截图
 
 ### End
 
-图片借用至 新浪微博iphone版（app：https://itunes.apple.com/us/app/weibo/id350962117），在此表示真心感谢！如有侵权，还望告知（email：mailto:kongnanlive@foxmail.com）。
+图片借用至 新浪微博iphone版[APP URL](https://itunes.apple.com/us/app/weibo/id350962117)，在此表示真心感谢！如有侵权，还望告知[email：](mailto:kongnanlive@foxmail.com)。
