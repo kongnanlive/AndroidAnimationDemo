@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <!-- android:background="#c5f2fe" -->
+
+    <ImageView
+        android:id="@+id/p3cbIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:src="@drawable/guide_c_bigcloud"
+        android:translationX="-20dp" />
+
+    <com.kongnan.weibo.MyViewGroup
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:visibility="visible" >
+
+        <RelativeLayout
+            android:id="@+id/p3RootView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/guide_b_phone" >
+
+            <com.kongnan.weibo.MyImageView
+                android:id="@+id/p3iv"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="fitXY"
+                android:src="@drawable/guide_c_feed_1136" />
+        </RelativeLayout>
+    </com.kongnan.weibo.MyViewGroup>
+
+    <ImageView
+        android:id="@+id/p3swIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="60dp"
+        android:layout_marginRight="50dp"
+        android:src="@drawable/guide_swipe" />
+
+    <ImageView
+        android:id="@+id/p3csIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerInParent="true"
+        android:src="@drawable/guide_c_smallcloud"
+        android:translationY="10dp" />
+
+    <ImageView
+        android:id="@+id/p3crIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/p3clIV"
+        android:layout_marginLeft="140dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/guide_c_rightwords" />
+
+    <ImageView
+        android:id="@+id/p3clIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="60dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/guide_c_leftwords" />
+
+</RelativeLayout>

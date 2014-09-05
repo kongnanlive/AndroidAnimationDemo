@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/p4RootView"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/p4EarthIV"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerInside"
+        android:scaleX="1.5"
+        android:scaleY="1.5"
+        android:src="@drawable/guide_d_earth"
+        android:translationY="360dp" />
+
+    <ImageView
+        android:id="@+id/p4EarthCloudIV"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:scaleType="centerInside"
+        android:scaleX="1.5"
+        android:scaleY="1.5"
+        android:src="@drawable/guide_d_earth_cloud"
+        android:translationY="360dp" />
+
+    <ImageView
+        android:id="@+id/p4dbcIV"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="@drawable/guide_d_bigcloud" />
+
+    <ImageView
+        android:id="@+id/p4ManIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="45dp"
+        android:src="@drawable/guide_d_man" />
+
+    <ImageView
+        android:id="@+id/p4dbIV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:src="@drawable/guide_d_bigwords" />
+
+    <TextView
+        android:id="@+id/p4dcTV"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/p4dbIV"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:text="我有一个伟大梦想\n让足迹遍布全世界"
+        android:textColor="#52c2e6"
+        android:textSize="18sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="35dp"
+        android:gravity="center"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="80dp"
+        android:background="@drawable/login_btn_bg"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="开始我的旅行"
+        android:textColor="@android:color/white" />
+
+</RelativeLayout>
