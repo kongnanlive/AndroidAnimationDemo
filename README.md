@@ -4,7 +4,7 @@ Android Animation Demo
 
 Warning!!!
 
-The project is only in the Samsung Note 3 Android 4.4 on the test is successful!
+The project is only in the Samsung Note 3 Android 4.4 on the test is successful! 
 本项目仅在三星 Note 3 Android 4.4上测试成功！
 
 Screenshot 截图
