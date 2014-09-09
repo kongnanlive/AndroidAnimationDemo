@@ -7,6 +7,9 @@ Warning!!!
 The project is only in the Samsung Note 3 Android 4.4 on the test is successful!  
 本项目仅在三星 Note 3 Android 4.4上测试成功！
 
+更新
+可以配合[facebook rebound](https://github.com/facebook/rebound)跟[JakeWharton NineOldAndroids](https://github.com/JakeWharton/NineOldAndroids)一起，就可以支持Android2.3+
+
 Screenshot 截图
 
 ![alt tag](https://github.com/kongnanlive/AndroidAnimationDemo/raw/master/screenshots/myaa1.mov_1409889442.gif)
