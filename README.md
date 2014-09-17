@@ -33,3 +33,9 @@ Screenshot 截图
 ### End
 
 图片借用至新浪微博iPhone手机版 [App Store URL](https://itunes.apple.com/us/app/weibo/id350962117)，在此表示真心感谢！如有侵权，还望告知[Email:kongnanlive@foxmail.com](mailto:kongnanlive@foxmail.com)。
+
+
+## License
+Copyright (c) 2014 [Kong Nan](http://weibo.com/kongnan)
+
+Licensed under the [Apache License, Version 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
